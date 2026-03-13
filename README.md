@@ -33,10 +33,6 @@ Digital auction platform for smallholder rubber farmers.
 Searchable database of legal products and regulations.
 `Laravel` `MySQL`
 
-### Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trymersi&show_icons=true&theme=default)
-
 ### Get in Touch
 
 📧 try.mersianto@gmail.com
