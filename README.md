@@ -39,4 +39,4 @@ Searchable database of legal products and regulations.
 
 ### Get in Touch
 
-📧 try.mersianto.woop@gmail.com
+📧 try.mersianto@gmail.com
