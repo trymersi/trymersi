@@ -33,6 +33,11 @@ Digital auction platform for smallholder rubber farmers.
 Searchable database of legal products and regulations.
 `Laravel` `MySQL`
 
+### Currently Working On
+🔨 Building SaaS products with Laravel + Flutter
+🤖 Exploring AI-assisted development workflow
+🌏 Open to remote opportunities
+
 ### Get in Touch
 
 📧 try.mersianto@gmail.com
